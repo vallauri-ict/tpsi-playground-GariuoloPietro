@@ -2,3 +2,4 @@
 ### Elenco esercizi
 1. JQuery UI
 2. NodeJs Intro
+3. Angular Intro
